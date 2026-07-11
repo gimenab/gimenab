@@ -81,3 +81,4 @@ Scrum Master para la plataforma administrativa y los dashboards docentes.
 📍 Córdoba, Argentina
 💼 [LinkedIn](https://www.linkedin.com/in/gimenabfernandez/)
 ✉️ gimena.b.fernandez@gmail.com
+
