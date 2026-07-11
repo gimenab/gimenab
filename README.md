@@ -22,13 +22,13 @@ I'm a Project Manager with a technical background as a former Frontend Developer
 **UNICEF** · *Social impact*
 Managed a complex ecosystem: 2 mobile apps, a web platform, backoffice, and an NFC-enabled dashboard.
 
-**TRS24** · *HealthTech*
-Led the development of a medical appointment management solution with social security system integrations.
+**Medical appointments platform** · *HealthTech*
+Led the development of a medical appointment management solution with social security system integrations — live app on Google Play plus an internal backoffice.
 
-**MBA UNC / ONLINUA** · *EdTech*
-Coordinated multi-platform educational solutions.
+**Higher education platforms** · *EdTech*
+Coordinated multi-platform educational solutions: a university MBA platform and a Coursera-style virtual campus.
 
-**Neema** · *EdTech (US)*
+**School management platform** · *EdTech (US)*
 Scrum Master for the administrative platform and teacher-facing dashboards.
 
 ## 🧰 Tools
@@ -63,13 +63,13 @@ Soy Project Manager con formación técnica previa como Frontend Developer (Reac
 **UNICEF** · *Impacto social*
 Gestión de un ecosistema complejo: 2 apps móviles, plataforma web, backoffice y dashboard con tecnología NFC.
 
-**TRS24** · *HealthTech*
-Liderazgo del desarrollo de una solución de gestión de turnos médicos con integración a sistemas de seguridad social.
+**Plataforma de turnos médicos** · *HealthTech*
+Liderazgo del desarrollo de una solución de gestión de turnos médicos con integración a sistemas de seguridad social — app publicada en Google Play más un backoffice interno.
 
-**MBA UNC / ONLINUA** · *EdTech*
-Coordinación de plataformas educativas multiplataforma.
+**Plataformas de educación superior** · *EdTech*
+Coordinación de soluciones educativas multiplataforma: una plataforma para un MBA universitario y un aula virtual estilo Coursera.
 
-**Neema** · *EdTech (EE. UU.)*
+**Plataforma de gestión escolar** · *EdTech (EE. UU.)*
 Scrum Master para la plataforma administrativa y los dashboards docentes.
 
 ## 🧰 Herramientas
