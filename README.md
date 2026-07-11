@@ -6,7 +6,7 @@
 
 **Project Manager | Agile Delivery | Digital Products**
 
-> From real problems to real products — with clear processes and teams that work.
+> *"Don't improvise what you can plan."*
 
 I'm a Project Manager with a technical background as a former Frontend Developer (React). That lets me understand the full development life cycle (SDLC) and translate between stakeholders and engineering teams without anything getting lost along the way. I've led the delivery of digital products — mobile, web, and backoffice — across HealthTech, EdTech, and social impact organizations.
 
@@ -47,7 +47,7 @@ Scrum Master for the administrative platform and teacher-facing dashboards.
 
 **Project Manager | Agile Delivery | Digital Products**
 
-> De problemas reales a productos reales — con procesos claros y equipos que funcionan.
+> *"No improvises lo que puedes planificar."*
 
 Soy Project Manager con formación técnica previa como Frontend Developer (React). Eso me permite entender el ciclo completo de desarrollo (SDLC) y traducir entre stakeholders y equipos técnicos sin que se pierda nada en el camino. Lideré la entrega de productos digitales — mobile, web y backoffice — en HealthTech, EdTech y organizaciones de impacto social.
 
