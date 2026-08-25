@@ -1,7 +1,3 @@
-**🇬🇧 [English](#hi-im-gimena-)** · **🇪🇸 [Español](#hola-soy-gimena-)**
-
----
-
 # Hi, I'm Gimena 👋
 
 **Project Manager | Agile Delivery | Digital Products**
@@ -40,45 +36,3 @@ Scrum Master for the administrative platform and teacher-facing dashboards.
 📍 Córdoba, Argentina
 💼 [LinkedIn](https://www.linkedin.com/in/gimenabfernandez/)
 ✉️ gimena.b.fernandez@gmail.com
-
----
-
-# Hola, soy Gimena 👋
-
-**Project Manager | Agile Delivery | Digital Products**
-
-> *"No improvises lo que puedes planificar."*
-
-Soy Project Manager con formación técnica previa como Frontend Developer (React). Eso me permite entender el ciclo completo de desarrollo (SDLC) y traducir entre stakeholders y equipos técnicos sin que se pierda nada en el camino. Lideré la entrega de productos digitales — mobile, web y backoffice — en HealthTech, EdTech y organizaciones de impacto social.
-
-## 🛠 Cómo trabajo
-
-- **Discovery primero**: relevamiento funcional y refinamiento con stakeholders antes de escribir una línea de código.
-- **Procesos al servicio del equipo**: workflows en Jira y Confluence que la gente realmente usa, no burocracia.
-- **Calidad como parte del flujo**: QA funcional y UAT integrados en cada release, no como etapa final.
-- **IA como herramienta de trabajo**: integro flujos asistidos por IA (Claude, Claude Code, NotebookLM) en documentación, análisis funcional y gestión.
-
-## 🚀 Proyectos destacados
-
-**UNICEF** · *Impacto social*
-Gestión de un ecosistema complejo: 2 apps móviles, plataforma web, backoffice y dashboard con tecnología NFC.
-
-**Plataforma de turnos médicos** · *HealthTech*
-Liderazgo del desarrollo de una solución de gestión de turnos médicos con integración a sistemas de seguridad social — app publicada en Google Play más un backoffice interno.
-
-**Plataformas de educación superior** · *EdTech*
-Coordinación de soluciones educativas multiplataforma: una plataforma para un MBA universitario y un aula virtual estilo Coursera.
-
-**Plataforma de gestión escolar** · *EdTech (EE. UU.)*
-Scrum Master para la plataforma administrativa y los dashboards docentes.
-
-## 🧰 Herramientas
-
-`Jira` `Confluence` `Trello` `Figma` · `Claude` `Claude Code` `ChatGPT` `NotebookLM` `Gemini` · `Git` `GitHub` `React` `JavaScript`
-
-## 📫 Contacto
-
-📍 Córdoba, Argentina
-💼 [LinkedIn](https://www.linkedin.com/in/gimenabfernandez/)
-✉️ gimena.b.fernandez@gmail.com
-
