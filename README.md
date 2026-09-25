@@ -34,5 +34,6 @@ Scrum Master for the administrative platform and teacher-facing dashboards.
 ## 📫 Contact
 
 📍 Córdoba, Argentina
+🌐 [Portfolio](https://gimenab.github.io/pm-portfolio/)
 💼 [LinkedIn](https://www.linkedin.com/in/gimenabfernandez/)
 ✉️ gimena.b.fernandez@gmail.com
